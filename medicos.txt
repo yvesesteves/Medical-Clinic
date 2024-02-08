@@ -1,0 +1,6 @@
+neurologista;lucas;123;34;89080;62321321;lucas@dsa.com
+cardiologista;millena;4232;28;5645;34321321;millena@dsa.com
+pediatra;Rafael;7645554;26;1234;119890;rafael@dsa.com
+oftalmologista;yves;747655;30;414321;3489789;yves@dsa.com
+gastrologista;gustavo;645654;38;534534;62989;gustavo@dsa.com
+nefrologista;melinda;4143;24;64654;1187897;melinda@dsa.com

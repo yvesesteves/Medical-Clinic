@@ -1,0 +1,6 @@
+joao;123;34;89080;62321321;lucas@dsa.com
+joaquin;4232;28;5645;34321321;millena@dsa.com
+guilherme;7645554;26;1234;119890;rafael@dsa.com
+lopes;747655;30;414321;3489789;yves@dsa.com
+carlos;645654;38;534534;62989;gustavo@dsa.com
+jose;4143;24;64654;1187897;melinda@dsa.com
